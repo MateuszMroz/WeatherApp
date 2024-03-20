@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="today_title">Today %s</string>
+    <string name="hpa">hpa</string>
+    <string name="percent">%</string>
+    <string name="kilometers_per_hour">km/h</string>
+</resources>
